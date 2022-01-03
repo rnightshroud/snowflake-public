@@ -1,0 +1,2 @@
+40|Normalized Ones|40
+61|Negative Cleansers|minus-20
